@@ -1,4 +1,4 @@
-# Event-Reservation-System-Simulation
+# Simulation of a System for Reserving Events
 
 We have covered multiple OS concepts like semaphores, mutex, threads etc. in this question. The assignment pdf is present in the folder for reference.
 
