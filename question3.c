@@ -1,12 +1,4 @@
-/* 
-    Group 19
-    Members: Samiul Haque 224101044
-             Abinash Kumar Ray 224101062
-             Vishal Chinchkhede 224101057
-             Himanshu Chhabra 224101023
-    Assignment 4
-    Question 3, code in C
-*/
+
 
 #include <pthread.h>
 #include <stdio.h>
