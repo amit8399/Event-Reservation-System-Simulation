@@ -1,4 +1,4 @@
-# Simulation of a System for Reserving Events
+# Multi-Threaded EventBooking System
 
 We have covered multiple OS concepts like semaphores, mutex, threads etc. in this question. The assignment pdf is present in the folder for reference.
 
